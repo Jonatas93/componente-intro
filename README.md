@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Description
+```
+Projeto para descrever de forma simples a criação de componentes e a reutilização em outros componentes.
+```
+
